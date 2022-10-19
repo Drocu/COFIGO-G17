@@ -9,6 +9,7 @@ while(opcion != 3):
     =============================================
     OPCION 1 : CONVERTIR DE SOLES A DOLARES
     OPCION 2 : CONVERTIR DE DOLARES A SOLES
+    OPCION 3 : SALIR
     =============================================
     """)
     opcion = int(input("Ingrese una opcion segun el menu: "))
